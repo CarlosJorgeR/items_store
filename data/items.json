@@ -1,0 +1,28 @@
+{
+    "items":[
+        {
+            "name":"Goma de PA",
+            "price":10
+        },
+        {
+            "name":"Juegos de tacos de apoyapie",
+            "price":20
+        },
+        {
+            "name":"Juego de fuelles",
+            "price":30
+        },
+        {
+            "name":"Goma de PA2",
+            "price":10
+        },
+        {
+            "name":"Juegos de tacos de apoyapie2",
+            "price":20
+        },
+        {
+            "name":"Juego de fuelles2",
+            "price":30
+        }
+    ]
+}
